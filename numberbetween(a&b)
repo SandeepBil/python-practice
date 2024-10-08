@@ -1,0 +1,7 @@
+a = int(input("enter a first number"))
+b = int(input("enter a second number"))
+while a>=b:
+  pass
+else:
+  for i in range(a,b+1):
+    print(i)
