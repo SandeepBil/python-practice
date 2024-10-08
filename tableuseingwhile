@@ -1,0 +1,6 @@
+x = int(input("table"))
+y = int(input("row"))
+i = 0
+while i < y:
+    print(x, "*", i, "=", x*i)
+    i += 1
