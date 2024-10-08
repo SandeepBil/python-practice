@@ -1,0 +1,6 @@
+x = int(input("enter a number"))
+z = str(x)
+total_digits = 0
+for i in z:
+    total_digits += 1
+print(total_digits)
