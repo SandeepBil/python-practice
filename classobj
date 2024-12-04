@@ -1,0 +1,10 @@
+
+class Student:
+  name = "sandeep bilagoji"
+  def __init__(self):
+    print(self)
+    print("this is constructor")
+s1 = Student()
+print(s1)
+
+
